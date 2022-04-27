@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(88, 88, 88);
+    color: white;
+    }
+
+p{ 
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+#image{
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+
