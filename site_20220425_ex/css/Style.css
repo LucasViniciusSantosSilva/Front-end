@@ -14,11 +14,16 @@ body{
     height: 616px;
 }
 
+#ban{
+    width: 1050px;
+    height: 162px;
+}
+
 #banner{
     margin:auto;
     width: 1050px;
     height: 162px;
-    background: #000;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
     color: #fff;
 }
 
@@ -26,7 +31,7 @@ body{
     margin: 0;
     width: 262px;
     height: 400px;
-    background: red;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
     margin-top: 0px;
     text-transform: uppercase;
 }
@@ -116,7 +121,12 @@ span{
     margin: 0,0,0,0;
     width: 262px;
     height: 200px;
+}
 
+#vid1, #vid2, #vid3, #vid4{
+    margin: 0,0,0,0;
+    width: 262px;
+    height: 200px;
 }
 
 nav{
