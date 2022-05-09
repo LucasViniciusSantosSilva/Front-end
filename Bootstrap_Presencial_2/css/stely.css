@@ -1,0 +1,20 @@
+body{
+    background-color: deepskyblue;
+}
+
+.nav-link, .navbar-brand{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img{
+    background-image: url('../imagens/Pexels-Banco-de-Imagens-gratis-Des1gnON.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+.container > .row {
+    display: flex;
+    flex-wrap: wrap;
+}
